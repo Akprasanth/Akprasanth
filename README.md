@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Akprasanth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Akprasanth aka Annapragada Krishna Prasanth
+- 👀 I’m interested in data, citizenship and improving accountability through data
+- 🌱 I’m currently learning text mining machine learning and data visualization
+- 💞️ I’m looking to collaborate on anything related to technology and democracy.
+- 📫 How to reach me -> akrishnaprasanth@gmail.com
 
 <!---
 Akprasanth/Akprasanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
